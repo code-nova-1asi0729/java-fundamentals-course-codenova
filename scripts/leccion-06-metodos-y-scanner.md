@@ -2,7 +2,7 @@
 
 **Duración:** 8 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L6
+**Video:** https://youtu.be/LHql1UR-fRM
 **Práctica:** https://onlinegdb.com/39WPM2FEH
 **Archivos:** `/starter-files/leccion-06-metodos-y-scanner` → `/completed-examples/leccion-06-metodos-y-scanner`
 

@@ -48,21 +48,21 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 #### Lección 4: Decisiones con if-else (7 minutos)
 * **Descripción**: Enséñale al juego a decidir: ¿game over, poca vida o en plena forma? ¿Alcanzan las monedas para una poción?
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L4)
+* **Video**: [Ver la lección](https://youtu.be/I7EI_EXhO_U)
 * **Conclusiones clave**: `if (condición) { }` se ejecuta solo si la condición es verdadera; `else if` revisa otra opción; `else` cubre todo lo demás; la condición va entre paréntesis y el bloque entre llaves.
 * **Práctica**: [Toma decisiones en OnlineGDB](https://onlinegdb.com/cWlf0J6RB)
 * **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/dxuwLMLag)
 
 #### Lección 5: Bucles for y while (7 minutos)
 * **Descripción**: Repite acciones sin copiar y pegar: entrena a tu héroe varias rondas con `for` y haz que resista golpes hasta el game over con `while`.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L5)
+* **Video**: [Ver la lección](https://youtu.be/S4ZP-7SsSk4)
 * **Conclusiones clave**: `for (int i = 1; i <= 5; i++)` repite un número fijo de veces; `while (condición)` repite mientras la condición sea verdadera; si nada cambia dentro del `while`, el bucle nunca termina.
 * **Práctica**: [Repite en OnlineGDB](https://onlinegdb.com/kQNt54Hyg)
 * **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/BZAQNi7j7)
 
 #### Lección 6: Métodos, parámetros y entrada con Scanner (8 minutos)
 * **Descripción**: Ordena tu código en métodos reutilizables, envíales datos con parámetros y deja que el jugador escriba el nombre de su héroe con `Scanner`.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L6)
+* **Video**: [Ver la lección](https://youtu.be/LHql1UR-fRM)
 * **Conclusiones clave**: Un método es un bloque con nombre que se puede llamar muchas veces; los parámetros son los datos que recibe; `return` devuelve un resultado; `Scanner` lee el teclado con `nextLine()` y `nextInt()`.
 * **Práctica**: [Habla con el programa en OnlineGDB](https://onlinegdb.com/39WPM2FEH)
 * **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/DjR-5Ilnn)

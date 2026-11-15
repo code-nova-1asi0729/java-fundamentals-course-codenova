@@ -2,7 +2,7 @@
 
 **Duración:** 7 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L5
+**Video:** https://youtu.be/S4ZP-7SsSk4
 **Práctica:** https://onlinegdb.com/kQNt54Hyg
 **Archivos:** `/starter-files/leccion-05-bucles` → `/completed-examples/leccion-05-bucles`
 
