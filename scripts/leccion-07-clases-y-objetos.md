@@ -2,8 +2,8 @@
 
 **Duración:** 8 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L7
-**Práctica:** PENDIENTE-ONLINEGDB-L7
+**Video:** https://youtu.be/vItsI56gIk8
+**Práctica:** https://onlinegdb.com/QrwwPNsC8
 **Archivos:** `/starter-files/leccion-07-clases-y-objetos` → `/completed-examples/leccion-07-clases-y-objetos`
 
 **Objetivo:** al terminar, el estudiante crea una clase con atributos, un constructor y métodos, y crea varios objetos a partir de ella.

@@ -2,9 +2,9 @@
 
 **Duración:** 9 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L9
-**Práctica 1 (juego):** PENDIENTE-ONLINEGDB-L9-JUEGO
-**Práctica 2 (caza de errores):** PENDIENTE-ONLINEGDB-L9-ERRORES
+**Video:** https://youtu.be/RsmKTq2GCII
+**Práctica 1 (juego):** https://onlinegdb.com/DBMPvS0Tg
+**Práctica 2 (caza de errores):** https://onlinegdb.com/UI648Mmdd3
 **Archivos:** `/starter-files/leccion-09-proyecto-final` → `/completed-examples/leccion-09-proyecto-final`
 
 **Objetivo:** al terminar, el estudiante construye un juego completo que combina clases, objetos, `Scanner`, `while`, `if-else` y métodos; reconoce los errores más comunes de un principiante y sabe cómo corregirlos.
