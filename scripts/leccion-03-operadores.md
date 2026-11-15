@@ -2,8 +2,8 @@
 
 **Duración:** 6 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L3
-**Práctica:** PENDIENTE-ONLINEGDB-L3
+**Video:** https://youtu.be/uJkGvDI8ySY
+**Práctica:** https://onlinegdb.com/ynYEGD_JR
 **Archivos:** `/starter-files/leccion-03-operadores` → `/completed-examples/leccion-03-operadores`
 
 **Objetivo:** al terminar, el estudiante calcula con operadores matemáticos, compara valores y combina condiciones.
