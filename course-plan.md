@@ -50,22 +50,22 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 * **Descripción**: Enséñale al juego a decidir: ¿game over, poca vida o en plena forma? ¿Alcanzan las monedas para una poción?
 * **Video**: [Ver la lección](PENDIENTE-VIDEO-L4)
 * **Conclusiones clave**: `if (condición) { }` se ejecuta solo si la condición es verdadera; `else if` revisa otra opción; `else` cubre todo lo demás; la condición va entre paréntesis y el bloque entre llaves.
-* **Práctica**: [Toma decisiones en OnlineGDB](PENDIENTE-ONLINEGDB-L4)
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L4-SOLUCION)
+* **Práctica**: [Toma decisiones en OnlineGDB](https://onlinegdb.com/cWlf0J6RB)
+* **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/dxuwLMLag)
 
 #### Lección 5: Bucles for y while (7 minutos)
 * **Descripción**: Repite acciones sin copiar y pegar: entrena a tu héroe varias rondas con `for` y haz que resista golpes hasta el game over con `while`.
 * **Video**: [Ver la lección](PENDIENTE-VIDEO-L5)
 * **Conclusiones clave**: `for (int i = 1; i <= 5; i++)` repite un número fijo de veces; `while (condición)` repite mientras la condición sea verdadera; si nada cambia dentro del `while`, el bucle nunca termina.
-* **Práctica**: [Repite en OnlineGDB](PENDIENTE-ONLINEGDB-L5)
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L5-SOLUCION)
+* **Práctica**: [Repite en OnlineGDB](https://onlinegdb.com/kQNt54Hyg)
+* **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/BZAQNi7j7)
 
 #### Lección 6: Métodos, parámetros y entrada con Scanner (8 minutos)
 * **Descripción**: Ordena tu código en métodos reutilizables, envíales datos con parámetros y deja que el jugador escriba el nombre de su héroe con `Scanner`.
 * **Video**: [Ver la lección](PENDIENTE-VIDEO-L6)
 * **Conclusiones clave**: Un método es un bloque con nombre que se puede llamar muchas veces; los parámetros son los datos que recibe; `return` devuelve un resultado; `Scanner` lee el teclado con `nextLine()` y `nextInt()`.
-* **Práctica**: [Habla con el programa en OnlineGDB](PENDIENTE-ONLINEGDB-L6)
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L6-SOLUCION)
+* **Práctica**: [Habla con el programa en OnlineGDB](https://onlinegdb.com/39WPM2FEH)
+* **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/DjR-5Ilnn)
 
 ### Módulo C: Programación orientada a objetos y proyecto final
 
@@ -103,9 +103,9 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 | 1 | ¡Hola, Java! | [OnlineGDB](PENDIENTE-ONLINEGDB-L1) | [Inicio](starter-files/leccion-01-hola-java) · [Terminado](completed-examples/leccion-01-hola-java) |
 | 2 | Crea a tu héroe | [OnlineGDB](PENDIENTE-ONLINEGDB-L2) | [Inicio](starter-files/leccion-02-variables-y-tipos) · [Terminado](completed-examples/leccion-02-variables-y-tipos) |
 | 3 | Golpes y monedas | [OnlineGDB](PENDIENTE-ONLINEGDB-L3) | [Inicio](starter-files/leccion-03-operadores) · [Terminado](completed-examples/leccion-03-operadores) |
-| 4 | ¿Game over? | [OnlineGDB](PENDIENTE-ONLINEGDB-L4) | [Inicio](starter-files/leccion-04-decisiones-if-else) · [Terminado](completed-examples/leccion-04-decisiones-if-else) |
-| 5 | Entrenamiento | [OnlineGDB](PENDIENTE-ONLINEGDB-L5) | [Inicio](starter-files/leccion-05-bucles) · [Terminado](completed-examples/leccion-05-bucles) |
-| 6 | Habla con el programa | [OnlineGDB](PENDIENTE-ONLINEGDB-L6) | [Inicio](starter-files/leccion-06-metodos-y-scanner) · [Terminado](completed-examples/leccion-06-metodos-y-scanner) |
+| 4 | ¿Game over? | [OnlineGDB](https://onlinegdb.com/cWlf0J6RB) | [Inicio](starter-files/leccion-04-decisiones-if-else) · [Terminado](completed-examples/leccion-04-decisiones-if-else) |
+| 5 | Entrenamiento | [OnlineGDB](https://onlinegdb.com/kQNt54Hyg) | [Inicio](starter-files/leccion-05-bucles) · [Terminado](completed-examples/leccion-05-bucles) |
+| 6 | Habla con el programa | [OnlineGDB](https://onlinegdb.com/39WPM2FEH) | [Inicio](starter-files/leccion-06-metodos-y-scanner) · [Terminado](completed-examples/leccion-06-metodos-y-scanner) |
 | 7 | La clase Heroe | [OnlineGDB](https://onlinegdb.com/QrwwPNsC8) | [Inicio](starter-files/leccion-07-clases-y-objetos) · [Terminado](completed-examples/leccion-07-clases-y-objetos) |
 | 8 | Protege a tu equipo | [OnlineGDB](https://onlinegdb.com/IxVGC2IcVD) | [Inicio](starter-files/leccion-08-encapsulacion-y-arrays) · [Terminado](completed-examples/leccion-08-encapsulacion-y-arrays) |
 | 9 | El cofre del tesoro | [OnlineGDB](https://onlinegdb.com/DBMPvS0Tg) | [Inicio](starter-files/leccion-09-proyecto-final) · [Terminado](completed-examples/leccion-09-proyecto-final) |
