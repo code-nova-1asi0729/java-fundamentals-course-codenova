@@ -63,3 +63,47 @@
 
 
 > Anotación: Señalar con flechas: 1) public class Main, 2) main, 3) las comillas del texto y 4) el punto y coma ;
+
+**Diapositiva 7 – Actividad práctica**
+
+"Abre el enlace de OnlineGDB de la descripción. No necesitas instalar nada ni crear una cuenta. Sigue los PASOS y pausa el video cuando lo necesites."
+
+> Texto en pantalla: ⏸ Abre el enlace de la descripción
+
+---
+## Parte 2: Práctica en OnlineGDB
+---
+
+**Inicio**
+
+"En el código de inicio ya tienes lista la estructura con Main y main, pero con los comentarios de los pasos por completar."
+
+**Paso 1 – El título del juego**
+
+"Paso uno: el título del juego La aventura del héroe. Escribimos tres líneas con System.out.println. La primera y la última son una línea de signos igual para decorar; la del medio es el nombre del juego. Recuerda las comillas y el punto y coma al final de cada línea."
+
+**Pasos 2 y 3 – Bienvenida y mensaje final**
+
+**"Paso dos**: un mensaje de bienvenida para el héroe, con dos líneas de println. **Paso tres**: el mensaje final, ¡Comienza la aventura!. Ahora pulsa Run y mira la consola: ahí aparece todo lo que escribimos, de arriba hacia abajo y en el mismo orden."
+
+**Código terminado**
+
+"Y este es el código terminado. Fíjate: una clase Main, el método main con sus llaves y seis instrucciones println que se ejecutan en orden. A la derecha ves la salida en la consola: el título, la bienvenida y el mensaje final. ¡Acabas de escribir tu primer programa en Java!"
+
+**Reto**
+
+"Pausa el video y agrega una línea nueva con println que diga el nombre de tu héroe. Pulsa Run y revisa la consola. Pista: no olvides las comillas ni el punto y coma. La solución está en la carpeta completed-examples del repositorio."
+
+---
+## Parte 3: Cierre
+---
+
+**Diapositiva 8 – Resumen y buenas prácticas**
+
+"Resumiendo: un programa es una lista de instrucciones en orden; todo programa en Java empieza en main dentro de sus llaves; System.out.println muestra un mensaje; y cada instrucción termina en punto y coma. Un error común es olvidar las comillas o el punto y coma al final."
+
+>Texto en pantalla: Un programa = lista de instrucciones · Todo empieza en main · println muestra un mensaje · No olvides ;
+
+**Diapositiva 9 – Próxima lección**
+
+"En la próxima lección vamos a guardar los datos de nuestro héroe, como su nombre, su vida y sus monedas, usando variables. ¡Nos vemos!"
