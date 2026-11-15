@@ -21,7 +21,7 @@
 
 **Diapositiva 1 – Portada**
 
-"¡Hola! Soy [tu nombre] y en este curso vas a crear la aventura de un héroe usando Java. En esta primera lección descubrirás qué es programar y escribirás tus primeras líneas de código. No necesitas saber nada antes, empezamos desde cero."
+"¡Hola! En este curso vas a crear la aventura de un héroe usando Java. En esta primera lección descubrirás qué es programar y escribirás tus primeras líneas de código. No necesitas saber nada antes, empezamos desde cero."
 
 > Texto en pantalla: Lección 1 · ¿Qué es programar y qué es Java?
 
