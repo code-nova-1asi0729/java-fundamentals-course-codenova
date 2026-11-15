@@ -2,8 +2,8 @@
 
 **Duración:** 7 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L2
-**Práctica:** PENDIENTE-ONLINEGDB-L2
+**Video:** https://youtu.be/QxVeY7YMZiY
+**Práctica:** https://onlinegdb.com/7KD1UtWZZM
 **Archivos:** `/starter-files/leccion-02-variables-y-tipos` → `/completed-examples/leccion-02-variables-y-tipos`
 
 **Objetivo:** al terminar, el estudiante guarda los datos del héroe en variables y elige el tipo correcto para cada uno.

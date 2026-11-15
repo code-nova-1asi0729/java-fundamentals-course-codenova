@@ -2,8 +2,8 @@
 
 **Duración:** 5 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L1
-**Práctica:** PENDIENTE-ONLINEGDB-L1
+**Video:** https://youtu.be/UdrG6q2G-3w
+**Práctica:** https://onlinegdb.com/UfaxAoSTH
 **Archivos:** `/starter-files/leccion-01-hola-java` → `/completed-examples/leccion-01-hola-java`
 
 **Objetivo:** al terminar, el estudiante explica qué es un programa, sabe dónde se usa Java y muestra mensajes con `System.out.println`.
