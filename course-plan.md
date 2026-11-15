@@ -28,24 +28,24 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 #### Lección 1: ¿Qué es programar y qué es Java? (5 minutos)
 * **Descripción**: Descubre qué es un programa, dónde se usa Java (desde apps de Android hasta Minecraft: Java Edition) y escribe tus primeras líneas de código para mostrar el título de nuestro juego.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L1)
+* **Video**: [Ver la lección](https://youtu.be/UdrG6q2G-3w)
 * **Conclusiones clave**: Un programa es una lista de instrucciones; todo programa en Java empieza en `main`; `System.out.println("...")` muestra un mensaje; cada instrucción termina en `;`.
-* **Práctica**: [¡Hola, Java! en OnlineGDB](PENDIENTE-ONLINEGDB-L1) 👈 **¡No necesitas registrarte!**
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L1-SOLUCION)
+* **Práctica**: [¡Hola, Java! en OnlineGDB](https://onlinegdb.com/UfaxAoSTH) 👈 **¡No necesitas registrarte!**
+* **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/tNUQztBRN)
 
 #### Lección 2: Variables y tipos de datos (7 minutos)
 * **Descripción**: Guarda los datos de tu héroe (nombre, vida, monedas, velocidad y si tiene escudo) en variables, y conoce los tipos de datos más usados.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L2)
+* **Video**: [Ver la lección](https://youtu.be/QxVeY7YMZiY)
 * **Conclusiones clave**: Una variable es una caja con nombre; `int` para enteros, `double` para decimales, `String` para textos, `boolean` para verdadero o falso; declara como `int vida = 100;` y une textos con `+`.
-* **Práctica**: [Crea a tu héroe en OnlineGDB](PENDIENTE-ONLINEGDB-L2) 👈 **¡Inicio inmediato!**
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L2-SOLUCION)
+* **Práctica**: [Crea a tu héroe en OnlineGDB](https://onlinegdb.com/7KD1UtWZZM) 👈 **¡Inicio inmediato!**
+* **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/t22bOuVhb)
 
 #### Lección 3: Operadores y expresiones (6 minutos)
 * **Descripción**: Haz que tu héroe reciba golpes, gane monedas y revise si puede comprar una espada usando operadores matemáticos, de comparación y lógicos.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L3)
+* **Video**: [Ver la lección]( https://youtu.be/uJkGvDI8ySY)
 * **Conclusiones clave**: `+ - * / %` para calcular; `+=` suma y guarda; `> < >= <= ==` comparan y dan `true` o `false`; `&&` significa "y", `||` significa "o"; entre enteros, `7 / 2` da `3`.
-* **Práctica**: [Calcula en OnlineGDB](PENDIENTE-ONLINEGDB-L3)
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L3-SOLUCION)
+* **Práctica**: [Calcula en OnlineGDB](https://onlinegdb.com/ynYEGD_JR)
+* **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/f4dCP-7mD)
 
 ### Módulo B: Haciendo que el programa piense
 
