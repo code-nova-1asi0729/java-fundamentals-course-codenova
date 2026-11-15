@@ -72,7 +72,6 @@
 
 ---
 ## Parte 2: Práctica en OnlineGDB
----
 
 **Inicio**
 
@@ -96,7 +95,6 @@
 
 ---
 ## Parte 3: Cierre
----
 
 **Diapositiva 8 – Resumen y buenas prácticas**
 
