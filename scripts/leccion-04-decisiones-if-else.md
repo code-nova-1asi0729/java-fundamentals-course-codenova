@@ -2,7 +2,7 @@
 
 **Duración:** 7 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L4
+**Video:** https://youtu.be/I7EI_EXhO_U
 **Práctica:** https://onlinegdb.com/cWlf0J6RB
 **Archivos:** `/starter-files/leccion-04-decisiones-if-else` → `/completed-examples/leccion-04-decisiones-if-else`
 
