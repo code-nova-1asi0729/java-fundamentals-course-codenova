@@ -39,7 +39,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 #### Lección 3: Operadores y expresiones (6 minutos)
 * **Descripción**: Haz que tu héroe reciba golpes, gane monedas y revise si puede comprar una espada usando operadores matemáticos, de comparación y lógicos.
-* **Video**: [Ver la lección]( https://youtu.be/uJkGvDI8ySY)
+* **Video**: [Ver la lección](https://youtu.be/uJkGvDI8ySY)
 * **Conclusiones clave**: `+ - * / %` para calcular; `+=` suma y guarda; `> < >= <= ==` comparan y dan `true` o `false`; `&&` significa "y", `||` significa "o"; entre enteros, `7 / 2` da `3`.
 * **Práctica**: [Calcula en OnlineGDB](https://onlinegdb.com/ynYEGD_JR)
 * **Ejemplo terminado**: [Ver solución](https://onlinegdb.com/f4dCP-7mD)
@@ -100,9 +100,9 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 | Lección | Actividad | Empezar a programar | Código en el repositorio |
 | :---: | :--- | :--- | :--- |
-| 1 | ¡Hola, Java! | [OnlineGDB](PENDIENTE-ONLINEGDB-L1) | [Inicio](starter-files/leccion-01-hola-java) · [Terminado](completed-examples/leccion-01-hola-java) |
-| 2 | Crea a tu héroe | [OnlineGDB](PENDIENTE-ONLINEGDB-L2) | [Inicio](starter-files/leccion-02-variables-y-tipos) · [Terminado](completed-examples/leccion-02-variables-y-tipos) |
-| 3 | Golpes y monedas | [OnlineGDB](PENDIENTE-ONLINEGDB-L3) | [Inicio](starter-files/leccion-03-operadores) · [Terminado](completed-examples/leccion-03-operadores) |
+| 1 | ¡Hola, Java! | [OnlineGDB](https://onlinegdb.com/UfaxAoSTH) | [Inicio](starter-files/leccion-01-hola-java) · [Terminado](completed-examples/leccion-01-hola-java) |
+| 2 | Crea a tu héroe | [OnlineGDB](https://onlinegdb.com/7KD1UtWZZM) | [Inicio](starter-files/leccion-02-variables-y-tipos) · [Terminado](completed-examples/leccion-02-variables-y-tipos) |
+| 3 | Golpes y monedas | [OnlineGDB](https://onlinegdb.com/ynYEGD_JR) | [Inicio](starter-files/leccion-03-operadores) · [Terminado](completed-examples/leccion-03-operadores) |
 | 4 | ¿Game over? | [OnlineGDB](https://onlinegdb.com/cWlf0J6RB) | [Inicio](starter-files/leccion-04-decisiones-if-else) · [Terminado](completed-examples/leccion-04-decisiones-if-else) |
 | 5 | Entrenamiento | [OnlineGDB](https://onlinegdb.com/kQNt54Hyg) | [Inicio](starter-files/leccion-05-bucles) · [Terminado](completed-examples/leccion-05-bucles) |
 | 6 | Habla con el programa | [OnlineGDB](https://onlinegdb.com/39WPM2FEH) | [Inicio](starter-files/leccion-06-metodos-y-scanner) · [Terminado](completed-examples/leccion-06-metodos-y-scanner) |
