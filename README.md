@@ -2,7 +2,7 @@
 
 Código fuente del curso en video de introducción a Java y a la programación orientada a objetos (POO) para estudiantes de secundaria (12 a 17 años) sin experiencia previa.
 
-📘 **Plan de curso completo** (videos, prácticas y recursos): [`course-plan.md`](course-plan.md)
+**Plan de curso completo** (videos, prácticas y recursos): [`course-plan.md`](course-plan.md)
 
 ---
 
@@ -49,16 +49,3 @@ Código fuente del curso en video de introducción a Java y a la programación o
 | 7 | Clases y objetos | 8 min | [inicio](starter-files/leccion-07-clases-y-objetos) | [terminado](completed-examples/leccion-07-clases-y-objetos) | [guion](scripts/leccion-07-clases-y-objetos.md) |
 | 8 | Encapsulación y arrays de objetos | 7 min | [inicio](starter-files/leccion-08-encapsulacion-y-arrays) | [terminado](completed-examples/leccion-08-encapsulacion-y-arrays) | [guion](scripts/leccion-08-encapsulacion-y-arrays.md) |
 | 9 | Proyecto final y errores comunes | 9 min | [inicio](starter-files/leccion-09-proyecto-final) | [terminado](completed-examples/leccion-09-proyecto-final) | [guion](scripts/leccion-09-proyecto-final.md) |
-
-## Flujo de trabajo
-
-- **GitFlow:** `main` (versión publicada), `develop` (integración) y una rama `feature/leccion-XX-...` por lección o grupo de lecciones. Cada `feature` se integra a `develop` con un pull request; `develop` se integra a `main` para la entrega.
-- **Conventional Commits** en inglés, con la lección como alcance:
-  - `feat(lesson-04): add starter and completed examples`
-  - `docs(lesson-04): add lesson script`
-  - `docs(course-plan): add lesson 4 video and practice links`
-- Los enlaces pendientes del plan de curso y de los guiones están marcados con `PENDIENTE-...` para encontrarlos con una búsqueda.
-
-## Licencia
-
-Material educativo de uso libre con fines de aprendizaje.
