@@ -111,7 +111,7 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 | 9 | El cofre del tesoro | [OnlineGDB](https://onlinegdb.com/DBMPvS0Tg) | [Inicio](starter-files/leccion-09-proyecto-final) · [Terminado](completed-examples/leccion-09-proyecto-final) |
 | 9 | Caza de errores | [OnlineGDB](https://onlinegdb.com/UI648Mmdd3) | [Inicio](starter-files/leccion-09-proyecto-final/caza-errores) · [Terminado](completed-examples/leccion-09-proyecto-final/caza-errores) |
 
-* **Cuestionario**: [Pon a prueba tus conocimientos](PENDIENTE-FORMULARIO-CUESTIONARIO)
+* **Cuestionario**: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSc30Qhgv4D7NH6eEX2FvYbn2Vz9WD7n83zFCGg4dnQZsMcpAQ/viewform)
 * **Para seguir aprendiendo**: [dev.java (sitio oficial para aprender Java)](https://dev.java/learn/) · [Documentación de Java de Oracle](https://docs.oracle.com/en/java/)
 * **Compartir**: #JavaBeginners
 
@@ -131,6 +131,6 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 * **Nombre del equipo**: CodeNova
 * **Líder del equipo**: Valladolid Jiménez, Arturo Fernando
 * **Integrantes del equipo**:
-  * Valladolid Jiménez, Arturo Fernando (u202420147): Lecciones 7, 8 y 9; estructura del repositorio y plan de curso
-  * Diaz Vargas, Fernanda Ysabella (u202411843): Lecciones 1, 2 y 3; cuestionario
+  * Valladolid Jiménez, Arturo Fernando (u202420147): Lecciones 7, 8 y 9; estructura del repositorio, plan de curso y cuestionario
+  * Diaz Vargas, Fernanda Ysabella (u202411843): Lecciones 1, 2 y 3
   * Romero Veliz, Matthias Alonso (u20241b178): Lecciones 4, 5 y 6
