@@ -2,8 +2,8 @@
 
 **Duración:** 7 min
 **Editor:** OnlineGDB (lenguaje: Java)
-**Video:** PENDIENTE-VIDEO-L8
-**Práctica:** PENDIENTE-ONLINEGDB-L8
+**Video:** https://youtu.be/4amYrVKeS08
+**Práctica:** https://onlinegdb.com/IxVGC2IcVD
 **Archivos:** `/starter-files/leccion-08-encapsulacion-y-arrays` → `/completed-examples/leccion-08-encapsulacion-y-arrays`
 
 **Objetivo:** al terminar, el estudiante protege los atributos con `private`, los usa con getters y setters, guarda varios objetos en un array y aplica métodos básicos de `String`.
@@ -38,7 +38,7 @@
 **Diapositiva 6 – Actividad práctica**
 "Abre el enlace de OnlineGDB de la descripción. Primero pulsa **Run** sin cambiar nada y mira lo que pasa con la vida de Luna. Después sigue los pasos y pausa cuando lo necesites."
 
-> Texto en pantalla: **⏸ Abre el enlace de la descripción**
+> Texto en pantalla: **Abre el enlace de la descripción**
 
 ---
 
