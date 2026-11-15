@@ -74,25 +74,25 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 
 #### Lección 7: Clases y objetos (8 minutos)
 * **Descripción**: Junta todos los datos y acciones del héroe en una clase, el "molde", y crea varios héroes a partir de ella con `new`.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L7)
+* **Video**: [Ver la lección](https://youtu.be/vItsI56gIk8)
 * **Conclusiones clave**: Una clase es un molde y un objeto es lo que creas con él; los atributos son lo que el objeto tiene y los métodos lo que hace; el constructor da los valores iniciales; cada objeto guarda sus propios datos.
-* **Práctica**: [Crea tu clase Heroe en OnlineGDB](PENDIENTE-ONLINEGDB-L7) 👈 **¡No necesitas registrarte!**
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L7-SOLUCION)
+* **Práctica**: [Crea tu clase Heroe en OnlineGDB](https://onlinegdb.com/QrwwPNsC8) 👈 **¡No necesitas registrarte!**
+* **Ejemplo terminado**: [Ver solución](completed-examples/leccion-07-clases-y-objetos/Main.java)
 
 #### Lección 8: Encapsulación y arrays de objetos (7 minutos)
 * **Descripción**: Protege los datos del héroe para que nadie pueda ponerle vida negativa y forma un equipo de héroes en un array.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L8)
+* **Video**: [Ver la lección](https://youtu.be/4amYrVKeS08)
 * **Conclusiones clave**: `private` protege los atributos; los getters leen y los setters cambian con reglas; un array guarda varios objetos y empieza en la posición 0; `toUpperCase()`, `length()` y `charAt()` trabajan con textos.
-* **Práctica**: [Protege a tu héroe en OnlineGDB](PENDIENTE-ONLINEGDB-L8)
-* **Ejemplo terminado**: [Ver solución](PENDIENTE-ONLINEGDB-L8-SOLUCION)
+* **Práctica**: [Protege a tu héroe en OnlineGDB](https://onlinegdb.com/IxVGC2IcVD)
+* **Ejemplo terminado**: [Ver solución](completed-examples/leccion-08-encapsulacion-y-arrays/Main.java)
 
 #### Lección 9: Proyecto final: El cofre del tesoro y errores comunes (9 minutos)
 * **Descripción**: Junta todo lo aprendido en un juego de adivinanzas con clases y, al final, caza los cinco errores más comunes de los principiantes.
-* **Video**: [Ver la lección](PENDIENTE-VIDEO-L9)
+* **Video**: [Ver la lección](https://youtu.be/RsmKTq2GCII)
 * **Conclusiones clave**: Un programa real combina clases, objetos, `Scanner`, `while` e `if-else`; lee el primer mensaje de error y la línea que indica; corrige una cosa a la vez; compara textos con `.equals()`.
-* **Proyecto final**: [Juega y programa El cofre del tesoro](PENDIENTE-ONLINEGDB-L9-JUEGO) 👈 **¡Comparte tu juego!**
-* **Caza de errores**: [Encuentra los 5 errores](PENDIENTE-ONLINEGDB-L9-ERRORES)
-* **Ejemplo terminado**: [Ver solución del juego](PENDIENTE-ONLINEGDB-L9-SOLUCION)
+* **Proyecto final**: [Juega y programa El cofre del tesoro](https://onlinegdb.com/DBMPvS0Tg) 👈 **¡Comparte tu juego!**
+* **Caza de errores**: [Encuentra los 5 errores](https://onlinegdb.com/UI648Mmdd3)
+* **Ejemplo terminado**: [Ver solución del juego](completed-examples/leccion-09-proyecto-final/juego-del-cofre/Main.java)
 
 ---
 
@@ -109,10 +109,10 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 | 4 | ¿Game over? | [OnlineGDB](PENDIENTE-ONLINEGDB-L4) | [Inicio](starter-files/leccion-04-decisiones-if-else) · [Terminado](completed-examples/leccion-04-decisiones-if-else) |
 | 5 | Entrenamiento | [OnlineGDB](PENDIENTE-ONLINEGDB-L5) | [Inicio](starter-files/leccion-05-bucles) · [Terminado](completed-examples/leccion-05-bucles) |
 | 6 | Habla con el programa | [OnlineGDB](PENDIENTE-ONLINEGDB-L6) | [Inicio](starter-files/leccion-06-metodos-y-scanner) · [Terminado](completed-examples/leccion-06-metodos-y-scanner) |
-| 7 | La clase Heroe | [OnlineGDB](PENDIENTE-ONLINEGDB-L7) | [Inicio](starter-files/leccion-07-clases-y-objetos) · [Terminado](completed-examples/leccion-07-clases-y-objetos) |
-| 8 | Protege a tu equipo | [OnlineGDB](PENDIENTE-ONLINEGDB-L8) | [Inicio](starter-files/leccion-08-encapsulacion-y-arrays) · [Terminado](completed-examples/leccion-08-encapsulacion-y-arrays) |
-| 9 | El cofre del tesoro | [OnlineGDB](PENDIENTE-ONLINEGDB-L9-JUEGO) | [Inicio](starter-files/leccion-09-proyecto-final) · [Terminado](completed-examples/leccion-09-proyecto-final) |
-| 9 | Caza de errores | [OnlineGDB](PENDIENTE-ONLINEGDB-L9-ERRORES) | [Inicio](starter-files/leccion-09-proyecto-final/caza-errores) · [Terminado](completed-examples/leccion-09-proyecto-final/caza-errores) |
+| 7 | La clase Heroe | [OnlineGDB](https://onlinegdb.com/QrwwPNsC8) | [Inicio](starter-files/leccion-07-clases-y-objetos) · [Terminado](completed-examples/leccion-07-clases-y-objetos) |
+| 8 | Protege a tu equipo | [OnlineGDB](https://onlinegdb.com/IxVGC2IcVD) | [Inicio](starter-files/leccion-08-encapsulacion-y-arrays) · [Terminado](completed-examples/leccion-08-encapsulacion-y-arrays) |
+| 9 | El cofre del tesoro | [OnlineGDB](https://onlinegdb.com/DBMPvS0Tg) | [Inicio](starter-files/leccion-09-proyecto-final) · [Terminado](completed-examples/leccion-09-proyecto-final) |
+| 9 | Caza de errores | [OnlineGDB](https://onlinegdb.com/UI648Mmdd3) | [Inicio](starter-files/leccion-09-proyecto-final/caza-errores) · [Terminado](completed-examples/leccion-09-proyecto-final/caza-errores) |
 
 * **Cuestionario**: [Pon a prueba tus conocimientos](PENDIENTE-FORMULARIO-CUESTIONARIO)
 * **Para seguir aprendiendo**: [dev.java (sitio oficial para aprender Java)](https://dev.java/learn/) · [Documentación de Java de Oracle](https://docs.oracle.com/en/java/)
