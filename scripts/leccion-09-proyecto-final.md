@@ -29,7 +29,7 @@
 **Diapositiva 4 – Actividad práctica**
 "Abre el primer enlace de OnlineGDB de la descripción. Las clases ya están escritas; tú completas el juego dentro de `main`. Pausa cuando lo necesites."
 
-> Texto en pantalla: **⏸ Abre la Práctica 1 de la descripción**
+> Texto en pantalla: **Abre la Práctica 1 de la descripción**
 
 ---
 

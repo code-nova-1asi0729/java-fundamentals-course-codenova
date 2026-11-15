@@ -40,7 +40,7 @@
 **Diapositiva 6 – Actividad práctica**
 "¡Ahora te toca! Abre el enlace de OnlineGDB que está en la descripción del video. No necesitas instalar nada ni crear una cuenta. Sigue los comentarios PASO 1, PASO 2… y pausa el video cuando lo necesites."
 
-> Texto en pantalla: **⏸ Abre el enlace de la descripción**
+> Texto en pantalla: **Abre el enlace de la descripción**
 
 ---
 

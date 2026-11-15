@@ -38,7 +38,7 @@
 **Diapositiva 6 – Actividad práctica**
 "Abre el enlace de OnlineGDB de la descripción. Primero pulsa **Run** sin cambiar nada y mira lo que pasa con la vida de Luna. Después sigue los pasos y pausa cuando lo necesites."
 
-> Texto en pantalla: **⏸ Abre el enlace de la descripción**
+> Texto en pantalla: **Abre el enlace de la descripción**
 
 ---
 

@@ -28,7 +28,7 @@
 **Diapositiva 4 – Actividad práctica**
 "Abre el enlace de OnlineGDB de la descripción. No necesitas instalar nada ni crear una cuenta. Sigue los PASOS y pausa el video cuando lo necesites."
 
-> Texto en pantalla: **⏸ Abre el enlace de la descripción**
+> Texto en pantalla: **Abre el enlace de la descripción**
 
 ---
 
